@@ -1,6 +1,6 @@
 {
   "name": "passport-ldap",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "LDAP authentication strategy for Passport.",
   "author": {
     "name": "Paul Dixon",
